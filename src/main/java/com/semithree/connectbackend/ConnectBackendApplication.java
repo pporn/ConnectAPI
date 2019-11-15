@@ -1,4 +1,4 @@
-package com.semithree.connect.connectbackend;
+package com.semithree.connectbackend;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

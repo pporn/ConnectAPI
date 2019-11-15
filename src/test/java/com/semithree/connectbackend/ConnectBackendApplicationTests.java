@@ -1,4 +1,4 @@
-package com.semithree.connect.connectbackend;
+package com.semithree.connectbackend;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
